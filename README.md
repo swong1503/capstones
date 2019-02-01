@@ -6,3 +6,4 @@ Capstone 002: Financial Analysis - Data Visualization (File: Capstone_002_Financ
 
 Capstone 003: Linear Regression - Focus on app or website (File: Capstone_003_LinearRegression, Ecommerce Customers.csv)
 Capstone 004: Logistic Regression - Click Ads or not (File: Capston_004_LogisticRegression, advertising.csv)
+Capstone 006: Random Forest and Decision Tress - LendingClub.com lend or not(File: Capstone_005_RandomForeest, loan_data.csv)
