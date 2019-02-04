@@ -12,3 +12,5 @@ Capstone 004: Logistic Regression - Click Ads or not (File: Capstone_004_Logisti
 Capstone 005: Knn - Unknown features to classify target class (File: Capstone_005_knn, KNN_Project_Data.csv)
 
 Capstone 006: Random Forest and Decision Tress - LendingClub.com lend or not (File: Capstone_006_RandomForeest, loan_data.csv)
+
+Capstone 007: SVM using Iris dataset (File: Capstone_007_SVM)
