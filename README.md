@@ -14,3 +14,5 @@ Capstone 005: Knn - Unknown features to classify target class (File: Capstone_00
 Capstone 006: Random Forest and Decision Tress - LendingClub.com lend or not (File: Capstone_006_RandomForeest, loan_data.csv)
 
 Capstone 007: SVM using Iris dataset (File: Capstone_007_SVM)
+
+Capstone 008: K Means Clustering to divide universities to two groups (File: Capstone_008_KMClustering, College_Data.csv)
