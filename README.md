@@ -16,3 +16,5 @@ Capstone 006: Random Forest and Decision Tress - LendingClub.com lend or not (Fi
 Capstone 007: SVM using Iris dataset (File: Capstone_007_SVM)
 
 Capstone 008: K Means Clustering to divide universities to two groups (File: Capstone_008_KMClustering, College_Data.csv)
+
+Capstone 009: NLP using Yelp dataset from Kaggle (file: Capstone_009_NLP, yelp.csv)
